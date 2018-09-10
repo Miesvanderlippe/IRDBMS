@@ -1,0 +1,2 @@
+-- Maak een query die een lijst toont van alle patiënten die zijn toegewezen aan bed.
+-- De resultatentabel moet de naam, het bednummer en het bedtype bevatten.

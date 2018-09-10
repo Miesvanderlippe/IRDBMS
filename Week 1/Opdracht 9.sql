@@ -1,0 +1,3 @@
+-- Creëer een tabel patient_archief. In deze tabel zullen de rijen worden opgeslagen van patienten die
+-- niet in behandeling zijn. Deze patiënten zijn gedefinieerd als patienten die de afgelopen 5 jaar
+-- niet meer in behandeling zijn. Neem de gegevensstructuur van de tabel patiënt over zonder de kolom bed_nr.

@@ -1,0 +1,2 @@
+-- Voeg jezelf toe als patient aan de tabel patient_archief om deze testen.
+-- Gebruik SYSDATE om de kolom lst_bijwerkdatum te vullen.

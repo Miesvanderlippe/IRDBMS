@@ -1,0 +1,1 @@
+-- Voer een update statement uit die de waarde van de kolom pers_kantoor_locatie voor Eugene Weber wijzigt in ZW4000.

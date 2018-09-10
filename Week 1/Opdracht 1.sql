@@ -1,0 +1,2 @@
+-- Er is een lijst nodig met alle patiënten uit het postcodegebied 6202 JK.
+-- De resultatentabel moet de achternaam, voornaam en postcode tonen.

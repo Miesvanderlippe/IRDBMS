@@ -1,0 +1,2 @@
+-- Iemand van Personeelszaken heeft een query nodig die het aantal medewerkers van het ziekenhuis telt.
+-- Geef de kolommen zinvolle namen

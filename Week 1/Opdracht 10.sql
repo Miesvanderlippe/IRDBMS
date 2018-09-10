@@ -1,0 +1,2 @@
+-- Maak een select statement om te zien welke records in de patiënt tabel in aanmerking komen om
+-- gearchiveerd te worden.
