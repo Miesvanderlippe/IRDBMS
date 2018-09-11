@@ -1,0 +1,2 @@
+-- Maak een stored procedure die notities aanmaakt voor patiënten. De aanmaakdatum en laatst
+-- bijgewerkt datum zijn automatisch de datum waarop de stored procedure wordt aangeroepen.

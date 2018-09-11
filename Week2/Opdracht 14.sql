@@ -1,0 +1,3 @@
+-- Wijzigingen op patientgegevens moeten gelogd worden voor audit doeleinden.
+-- Maak daarom een patient_audit tabel aan. De tabel wordt automatisch gevuld
+-- wanneer een wijziging plaatsvindt in de patient tabel. Implementeer hiervoor een trigger.

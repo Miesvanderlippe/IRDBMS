@@ -1,0 +1,2 @@
+-- Een lijst op patient achternaam, tussenvoegsel en voornaam in welk bed deze patient zich bevindt
+-- (bed nummer). Sorteer op achternaam.

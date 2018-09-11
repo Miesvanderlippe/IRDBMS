@@ -1,0 +1,1 @@
+-- Schrijf een view die alle verrichtingen van het laboratorium1 met 10% verhoogd.

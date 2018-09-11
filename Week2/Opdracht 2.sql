@@ -1,0 +1,2 @@
+-- Het bed nummer zegt de centrale info niet zoveel. Breidt de query
+-- uit dat het kamernummer getoond wordt. Toon ook de kameromschrijving.

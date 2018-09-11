@@ -1,0 +1,4 @@
+-- Het hoofdinformatievoorziening van het Bredeweg ziekenhuis heeft besloten dat röntgenfoto’s
+-- en medische opnamen (bijvoorbeeld angioplasy) niet meer los in bestandsmappen mogen staan,
+-- maar bij de patientgegevens in de centrale database.
+-- Implementeer een oplossing voor het Bredeweg ziekenhuis.

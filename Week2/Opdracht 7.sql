@@ -1,0 +1,1 @@
+-- Maak een view die van een patiënt alleen de adresgegevens laat zien.

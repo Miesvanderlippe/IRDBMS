@@ -1,0 +1,3 @@
+-- Breidt bovenstaande query uit door alle behandelingen die niet vaker dan 1 keer voorkomen
+-- niet te tonen. Sorteer op aantal behandelingen (de vaakst voorkomende bovenaan), gevolgd
+-- door verrichting omschrijving op alfabet
